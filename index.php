@@ -18,14 +18,14 @@
 <div id="cv" class="instaFade">
 	<div class="mainDetails">
 		<div id="headshot" class="quickFade">
-			<img src="images/headshot.jpg" alt="Amolakh Das" />
+			<img src="headshot.jpg" alt="Amolakh Das" />
 		</div>
 		
 		<div id="name">
 			<h1 class="quickFade delayTwo">Amolakh Das</h1>
 			<h2 class="quickFade delayThree">PHP/Web Developer</h2>
-			<a href="https://www.facebook.com/amolakh.das" target="_blank"><img src="images/facebook.png" alt="Linkedin" /></a>
-			<a href="https://pk.linkedin.com/pub/amolakh-das-s-premani/43/b93/3b7" target="_blank"><img src="images/linkedin.png" alt="Linkedin" /></a>
+			<a href="https://www.facebook.com/amolakh.das" target="_blank"><img src="facebook.png" alt="Linkedin" /></a>
+			<a href="https://pk.linkedin.com/pub/amolakh-das-s-premani/43/b93/3b7" target="_blank"><img src="linkedin.png" alt="Linkedin" /></a>
 		</div>
 		
 		<div id="contactDetails" class="quickFade delayFour">
